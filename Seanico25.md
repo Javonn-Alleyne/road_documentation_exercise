@@ -14,11 +14,15 @@ At the end of the time of me going to view the vehicle, I made the agreement to 
 
 All in all I got the vehicle I really wanted and I was happy with the purchase .
 
+
+
 #### Images of Toyota EP82 Starlet
 ___
 > **Toyota EP82 Starlet from behind**
+
 ![Image of Toyota Starlet 1](assets/RoshawnL_03.jpg)
 ___
 > **Toyota EP82 Starlet from side**
+
 ![Image of Toyota Starlet 2](assets/RoshawnL_04.jpg)
 
