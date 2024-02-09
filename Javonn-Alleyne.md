@@ -1,6 +1,6 @@
 # The GOAT of Formula 1
 Lewis Carl Davidson Hamilton is a British born racing driver and motorsport legend. As of today he is driving for the Mercedes F1 Team and is a **7 times Formula One World Drivers Champion**, a feat only ever match by the legendary, Michael Schumacher. Today Hamilton is known as one of the best drivers in the sports history. Having the ability and knowledge to develop and extract the most out of any car he is given.
-![Photo of Lewis Hamilton at the 2022 Brazlian Grand Prix](https://en.wikipedia.org/wiki/Lewis_Hamilton#/media/File:Lewis_Hamilton_2022_São_Paulo_Grand_Prix_(52498120773)_(cropped).jpg)
+![Photo of Lewis Hamilton at the 2022 Brazlian Grand Prix](https://github.com/Javonn-Alleyne/road_documentation_exercise/blob/main/assets/Javonn-Alleyne_001.jpg?raw=true)
 
 ---
 
